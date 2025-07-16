@@ -1,6 +1,0 @@
-app = "n8npdfmaster"
-[build]
-  dockerfile = "Dockerfile"
-[http_service]
-  internal_port = 5678
-  force_https = true
